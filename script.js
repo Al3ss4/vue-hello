@@ -18,7 +18,9 @@ const root = new Vue ({
     data : {
         messaggio : "vue-hello!",
         classe : "color", 
-       
+    // aggiungo immagine
+        immagine : "img/OnePieceshojo_1R.jpg"
+
     }
     
 });
